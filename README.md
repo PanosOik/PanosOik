@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔬 I’m currently working on understanding morphogenetic mechanicsms of embryonic development
+- 🔬 I do research trying to understand the morphogenetic principles of organogenesis in the developing embryo
 
 
 <!--
