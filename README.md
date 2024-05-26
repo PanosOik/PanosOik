@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔬 I do research trying to understand the morphogenetic principles of organogenesis in the developing embryo
+- 🔬 I study the genetic and biophysical principles of tissue and organ formation in the developing embryo
 
 
 <!--
